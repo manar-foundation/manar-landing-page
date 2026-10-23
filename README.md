@@ -97,3 +97,4 @@ export const APPLY_URL = '#'
 | `--body`       | `#4c4b4b` | النصوص                     |
 | `--tint`       | `#f6fbfe` | خلفيات الأقسام الفاتحة     |
 # manar-landing-page
+# manar-landing-page
