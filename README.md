@@ -98,3 +98,4 @@ export const APPLY_URL = '#'
 | `--tint`       | `#f6fbfe` | خلفيات الأقسام الفاتحة     |
 # manar-landing-page
 # manar-landing-page
+# manar-landing-page
